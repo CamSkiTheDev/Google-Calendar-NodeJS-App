@@ -19,3 +19,9 @@ I had a hard time finding a good tutorial or example on how to use the google ca
 - Color: Bold Blue | ID: 9
 - Color: Bold Green | ID: 10
 - Color: bold red | ID: 11
+
+# Youtube Tutorial
+
+In this video I show you how this project was created and why? We also go over what each line of code does.
+
+[Video Tutorial](https://www.youtube.com/watch?v=zrLf4KMs71E)
